@@ -64,8 +64,6 @@ def calculate():
     # Uncomment to plot h vs absolute error values
     # plotResults(xValues, yValues)
 
-    minError = min(yValues)
-
     return result
 
 # Helper function to plot h vs absolute error values
